@@ -1,0 +1,650 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\practiceABOBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\usertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\usertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\usertrackingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\usertrackingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\usertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\usertrackingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|s:\\practiceaboba\\practiceaboba\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\editapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\editapplicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\editapplicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\addapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\addapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\addapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\addapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\changemasterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\changemasterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\changemasterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\changemasterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\displayallapplicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\displayallapplicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\displayallapplicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\displayallapplicationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\searchapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\searchapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\searchapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\searchapplicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\masterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\blinkingbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\blinkingbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\statisticsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\statisticsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\masterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\masterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\addapplicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\addapplicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\changemasterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\changemasterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\searchapplicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\searchapplicationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|S:\\practiceABOBA\\practiceaboba\\displayallapplicationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E81FFA-8514-431B-8617-E3611AA437AE}|practiceABOBA\\practiceABOBA.csproj|solutionrelative:practiceaboba\\displayallapplicationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditApplicationForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\EditApplicationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\EditApplicationForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\EditApplicationForm.cs",
+              "RelativeToolTip": "practiceABOBA\\EditApplicationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\Application.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\Application.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\Application.cs",
+              "RelativeToolTip": "practiceABOBA\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\ApplicationStatus.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\ApplicationStatus.cs",
+              "RelativeToolTip": "practiceABOBA\\ApplicationStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\NotificationForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\NotificationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "practiceABOBA\\NotificationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.379Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "interface.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\interface.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\interface.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\interface.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "interface.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\interface.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\interface.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\interface.cs",
+              "RelativeToolTip": "practiceABOBA\\interface.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\Form1.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\Form1.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditApplicationForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\EditApplicationForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\EditApplicationForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\EditApplicationForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\EditApplicationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTrackingForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\UserTrackingForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\UserTrackingForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\UserTrackingForm.cs",
+              "RelativeToolTip": "practiceABOBA\\UserTrackingForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserTrackingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\UserTrackingForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\UserTrackingForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\UserTrackingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "practiceABOBA\\UserTrackingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.383Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTrackingForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\UserTrackingForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\UserTrackingForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\UserTrackingForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\UserTrackingForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\NotificationForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\NotificationForm.cs",
+              "RelativeToolTip": "practiceABOBA\\NotificationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\EditApplicationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\EditApplicationForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\EditApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "practiceABOBA\\EditApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.057Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\Form1.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\Form1.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\Form1.cs",
+              "RelativeToolTip": "practiceABOBA\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\StatisticsForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\StatisticsForm.cs",
+              "RelativeToolTip": "practiceABOBA\\StatisticsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\StatisticsForm.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\StatisticsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddApplicationForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\AddApplicationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\AddApplicationForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\AddApplicationForm.cs",
+              "RelativeToolTip": "practiceABOBA\\AddApplicationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\AddApplicationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\AddApplicationForm.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\AddApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChangeMasterForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\ChangeMasterForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\ChangeMasterForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\ChangeMasterForm.cs",
+              "RelativeToolTip": "practiceABOBA\\ChangeMasterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChangeMasterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\ChangeMasterForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\ChangeMasterForm.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\ChangeMasterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DisplayAllApplicationsForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\DisplayAllApplicationsForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\DisplayAllApplicationsForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\DisplayAllApplicationsForm.cs",
+              "RelativeToolTip": "practiceABOBA\\DisplayAllApplicationsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DisplayAllApplicationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\DisplayAllApplicationsForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\DisplayAllApplicationsForm.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\DisplayAllApplicationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SearchApplicationForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\SearchApplicationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\SearchApplicationForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\SearchApplicationForm.cs",
+              "RelativeToolTip": "practiceABOBA\\SearchApplicationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SearchApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\SearchApplicationForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\SearchApplicationForm.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\SearchApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MasterForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\MasterForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\MasterForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\MasterForm.cs",
+              "RelativeToolTip": "practiceABOBA\\MasterForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MasterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\MasterForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\MasterForm.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\MasterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "packages.config",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\packages.config",
+              "RelativeDocumentMoniker": "practiceABOBA\\packages.config",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\packages.config",
+              "RelativeToolTip": "practiceABOBA\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-10T19:19:15.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\LoginForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\LoginForm.cs",
+              "ToolTip": "D:\\\u043A\u043E\u0434\u0438\u043A\u0438\\practiceABOBA\\practiceABOBA\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\LoginForm.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\LoginForm.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\LoginForm.cs",
+              "RelativeToolTip": "practiceABOBA\\LoginForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-10T19:19:15.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\LoginForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\LoginForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "interface.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\interface.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\interface.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\interface.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\interface.Designer.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlinkingButton.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\BlinkingButton.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\BlinkingButton.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\BlinkingButton.cs",
+              "RelativeToolTip": "practiceABOBA\\BlinkingButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-06-10T19:19:15.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StatisticsForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\StatisticsForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\StatisticsForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\StatisticsForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\StatisticsForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\Program.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\Program.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\Program.cs",
+              "RelativeToolTip": "practiceABOBA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:19:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MasterForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\MasterForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\MasterForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\MasterForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\MasterForm.Designer.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddApplicationForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\AddApplicationForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\AddApplicationForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\AddApplicationForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\AddApplicationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChangeMasterForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\ChangeMasterForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\ChangeMasterForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\ChangeMasterForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\ChangeMasterForm.Designer.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SearchApplicationForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\SearchApplicationForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\SearchApplicationForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\SearchApplicationForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\SearchApplicationForm.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\Form1.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\Form1.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\Form1.Designer.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DisplayAllApplicationsForm.Designer.cs",
+              "DocumentMoniker": "S:\\practiceABOBA\\practiceABOBA\\DisplayAllApplicationsForm.Designer.cs",
+              "RelativeDocumentMoniker": "practiceABOBA\\DisplayAllApplicationsForm.Designer.cs",
+              "ToolTip": "S:\\practiceABOBA\\practiceABOBA\\DisplayAllApplicationsForm.Designer.cs",
+              "RelativeToolTip": "practiceABOBA\\DisplayAllApplicationsForm.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAJUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-10T19:19:15.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

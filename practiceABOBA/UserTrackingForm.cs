@@ -29,7 +29,7 @@ namespace ServiceDeskApp
 
         private void TrackOrder(int applicationNumber)
         {
-            string databasePath = @"D:\кодики\practiceABOBA\practiceABOBA\bin\Debug\applications.db";
+            string databasePath = @"applications.db";
             string connectionString = $"Data Source={databasePath};Version=3;";
             using (var connection = new SQLiteConnection(connectionString))
             {
